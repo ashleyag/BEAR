@@ -1,6 +1,6 @@
 # BEAR
 Verilog modules and Python scripts used with the BEAR IC.
-Verilog modules were designed for the Basys 3 FPGA board. 
+Verilog modules were designed for the Basys 3 FPGA board.   
 constraints.xdc - Constraints file
 control.
 Python scripts included are : 
