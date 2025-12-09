@@ -1,5 +1,5 @@
 # BEAR 2
-Verilog modules and Python scripts used with the BEAR IC.  
+Verilog modules and Python scripts used with the BEAR 2 IC- Boston Extended Amplitude Range IC.  
   
 Verilog modules were designed for the Basys 3 FPGA board:   
 constraints.xdc - Constraints file  
