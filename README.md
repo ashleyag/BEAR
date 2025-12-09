@@ -1,4 +1,4 @@
-# BEAR
+# BEAR 2
 Verilog modules and Python scripts used with the BEAR IC.  
   
 Verilog modules were designed for the Basys 3 FPGA board:   
